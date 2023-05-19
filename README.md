@@ -30,7 +30,7 @@ nvm use 16
 Open Terminal {Ctrl+Alt+T}
 
 ```sh
-https://github.com/balogee/highFive.git
+git clone https://github.com/balogee/highFive.git
 ```
 
 ```sh
