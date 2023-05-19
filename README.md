@@ -13,7 +13,7 @@ You may support other people because of a project they are building that interes
 ## --
 
 [Demo App](https://balogee.github.io/highFive)
-This project is a demo project for dacade.org, please be free to criticize.
+This project is a demo project for dacade.org, please be free to criticize. ;)
 
 # Installation
 
