@@ -17,6 +17,16 @@ This project is a demo project for dacade.org, please be free to criticize.
 
 # Installation
 
+### Make sure you are running node v16 or less
+Install node v16 using:
+```sh
+nvm install 16
+```
+If you have v16 installed, change to that version using:
+```sh
+nvm use 16
+```
+
 Open Terminal {Ctrl+Alt+T}
 
 ```sh

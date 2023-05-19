@@ -105,7 +105,7 @@ function campaignTemplate(_campaign) {
             <div class="d-grid gap-2">
               <a class="btn btn-lg btn-outline-dark donateBtn fs-6 p-3" id=${_campaign.id
             }>
-                Donate
+                Give High Five
               </a>
             </div>`
         }
